@@ -1,0 +1,51 @@
+body{
+    background-image: url('./images/hogwarts-school-castle-harry-potter-desktop-ti73p8h2zh711jo9.webp');
+    background-size: cover;
+    
+}
+h1{
+
+    margin-left: 50px;
+    
+}
+.c{
+    height: 500px;
+    width: 31%;
+    border: rgba(255, 255, 255, 0) 18px solid; 
+    float: left;
+    background-color: #91528c00;
+    
+}
+.c:hover{
+    background-color: rgba(63, 82, 82, 0.208);
+}
+img{
+    width: 90%;
+    height: 350px;
+    background-color: #91528c00;
+}
+img:hover{
+    background-color: aliceblue;
+}
+h3{
+    color: #1a1851;
+    padding: 5px;
+    margin-left: -4px;
+    margin-top: 15px;
+    background-color: rgba(0, 0, 255, 0);
+    
+}
+h3:hover{
+    background-color: rgba(0, 0, 0, 0.192);
+}
+h2{
+    color: rgb(98, 148, 205);
+    background-color: rgba(0, 0, 0, 0);
+}
+h2:hover{
+background-color: rgba(20, 29, 37, 0.356);
+}
+#a1{
+    margin-left: 975px;
+}
+
